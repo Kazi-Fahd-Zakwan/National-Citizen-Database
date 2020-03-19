@@ -1,1 +1,3 @@
-National Citizen Database
+National Citizen Database is a website which can be connected with a database where information can be stored. The website takes information of the citizens. The information of the citizens can be manipulated, updated or deleted from the database. The website contains a login form where citizen first need to register and then login to their designated user account. Through citizen's user account citizen can insert and edit their information for further usage. The website also contains administrators account from which admin can see, search or delete information of the citizens.
+The National Citizen Database was built using HTML5, CSS3, PHP and MYSQL.
+The website or the front end was done by using HTML5 and CSS3, the back end was done by PHP and MYSQL was the database query language that was used.
